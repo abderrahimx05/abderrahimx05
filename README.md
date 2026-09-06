@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://abderahimportfolio.netlify.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/TON-LIEN">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/abderahimaitchraa/">LinkedIn</a> ·
   <a href="mailto:abderahimaitchraa@gmail.com">Email</a>
 </p>
 

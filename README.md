@@ -5,3 +5,23 @@
 - website: https://abderahimportfolio.netlify.app/ .
 
 
+DevOps Toolchain
+☁️ Cloud & Infrastructure
+
+
+🐳 Containers & Orchestration
+  
+
+🔁 CI/CD & Automation
+
+
+📊 Observability & Monitoring
+ 
+
+🔐 Security & DevSecOps
+  
+
+🗄️ Version Control & Collaboration
+
+
+🖥️ Scripting & OS

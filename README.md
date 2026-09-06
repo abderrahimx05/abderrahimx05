@@ -61,6 +61,7 @@ Actuellement à l'écoute d'opportunités **DevOps** ou **fullstack à forte com
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2ac7aa22-10c3-46a6-bf43-3a4e15074e1e" />
 
 
 ---

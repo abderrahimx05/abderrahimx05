@@ -1,8 +1,9 @@
 <h1 align="center">Abderahim Ait-Chraa</h1>
 
 <p align="center">
-  <b>Développeur Fullstack PHP / Symfony &amp; React</b><br>
-  Architecture des systèmes d'information (Bac+5, RNCP Niveau 7) · Région parisienne
+  <b>Développeur Fullstack orienté DevOps</b><br>
+  PHP 8 / Symfony 6 · React / TypeScript · Docker · GitLab CI/CD<br>
+  Architecture des systèmes d'information (Bac+5, RNCP Niveau 7) — Région parisienne
 </p>
 
 <p align="center">
@@ -15,19 +16,34 @@
 
 ### À propos
 
-Développeur fullstack formé en alternance pendant 3 ans à la **DILA** (Direction de l'Information Légale et Administrative), sur des plateformes de diffusion légale utilisées quotidiennement par les entreprises et les administrations : **BODACC**, **BOAMP**, **Journal Officiel**.
+Je développe des applications fullstack **et** je m'occupe de ce qui les amène en production : conteneurisation, pipelines, qualité de code, observabilité.
 
-Ce que ça m'a appris, concrètement : livrer sur du code qui ne peut pas tomber, tester sérieusement, et automatiser tout ce qui peut l'être.
+Formé en alternance pendant 3 ans à la **DILA** (Direction de l'Information Légale et Administrative), sur des plateformes de diffusion légale utilisées quotidiennement par les entreprises et les administrations : **BODACC**, **BOAMP**, **Journal Officiel**. Du code qui ne peut pas tomber, des déploiements qui ne s'improvisent pas.
 
-- Couverture de tests d'une application critique passée de **12 % à 68 %**, sans une seule régression en production
+**Ce que j'ai livré**
+
+- Couverture de tests d'une application critique portée de **12 % à 68 %**, sans une seule régression en production
+- Pipelines **GitLab CI/CD** : build, tests automatisés, analyse **SonarQube** bloquante, déploiement sur environnements dockerisés
+- Environnements de développement **Docker Compose** reproductibles (PHP-FPM, Nginx, PostgreSQL, Elasticsearch)
 - Intégration d'**APIs d'IA générative** (OpenAI / Anthropic) en production : RAG, extraction structurée de données
-- Chaînes **CI/CD GitLab** avec analyse qualité SonarQube et environnements dockerisés
 
-Actuellement à l'écoute d'opportunités **fullstack / backend** en CDI.
+Actuellement à l'écoute d'opportunités **DevOps** ou **fullstack à forte composante infra**, en CDI.
 
 ---
 
 ### Stack
+
+**Conteneurs & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**CI/CD & Qualité**
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=flat-square&logo=php&logoColor=white)
 
 **Backend**
 ![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -38,32 +54,19 @@ Actuellement à l'écoute d'opportunités **fullstack / backend** en CDI.
 **Frontend**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Données**
+**Données & Observabilité**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-**DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-> Retire les lignes qui ne correspondent pas à ce que tu sais réellement défendre en entretien.
 
 ---
 
-### Projets
 
-| Projet | Ce que ça fait | Stack |
-|---|---|---|
-| **[nom-du-projet](#)** | Une phrase : le problème résolu, pas la techno. | Symfony 6 · PostgreSQL · Docker |
-| **[nom-du-projet](#)** | Une phrase. | React · TypeScript · API Platform |
-| **[nom-du-projet](#)** | Une phrase. | Python · FastAPI · RAG |
 
----
 
 ### Activité
 
